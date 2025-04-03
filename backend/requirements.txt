@@ -1,0 +1,12 @@
+fastapi>=0.110.0
+uvicorn
+sqlmodel
+psycopg2
+redis
+openai
+tiktoken  
+httpx  
+python-jose[cryptography]  
+passlib[bcrypt]  
+pyjwt 
+GitPython
